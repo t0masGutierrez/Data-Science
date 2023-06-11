@@ -1,3 +1,3 @@
 # [Netflix Titles](https://nbviewer.org/github/tgut5510/Python/blob/master/Netflix%20Titles/Netflix%20Titles.ipynb)
 
-# [Weather](https://github.com/tgut5510/Python/blob/58edb6df3ff8f62e7037960ea42277d710d55724/Weather.py)
+# [sp500 Stock Predictions](https://nbviewer.org/github/tgut5510/Python/blob/master/sp500%20Stock%20Predictions/sp500%20Stock%20Predictions.ipynb)
