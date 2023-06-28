@@ -1,4 +1,4 @@
-# [Titanic](https://nbviewer.org/github/t0masGutierrez/Data-Science/blob/master/Titanic/Netflix%20Titles.ipynb)
+# [Titanic](https://nbviewer.org/github/t0masGutierrez/Data-Science/blob/master/Titanic/Titanic.ipynb)
 
 # [Netflix Titles](https://nbviewer.org/github/t0masGutierrez/Data-Science/blob/master/Netflix%20Titles/Netflix%20Titles.ipynb)
 
