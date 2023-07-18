@@ -1,4 +1,4 @@
-# [Titanic](https://nbviewer.org/github/t0masGutierrez/Data-Science/blob/master/Titanic/Titanic.ipynb)
-# [S&P 500 Index](https://nbviewer.org/github/t0masGutierrez/Data-Science/blob/master/sp500%20Index/sp500%20Index.ipynb)
-# [Netflix Titles](https://nbviewer.org/github/t0masGutierrez/Data-Science/blob/master/Netflix%20Titles/Netflix%20Titles.ipynb)
-# [Texas Lottery Prize Winners](https://nbviewer.org/github/t0masGutierrez/Data-Science/blob/master/Texas%20Lottery%20Prize%20Winners/Texas%20Lottery%20Prize%20Winners.ipynb)
+# [Titanic](https://www.kaggle.com/code/tgut5510/titanic)
+# [S&P 500 Index](https://www.kaggle.com/code/tgut5510/s-p-500-index)
+# [Netflix Titles](https://www.kaggle.com/code/tgut5510/netflix-titles)
+# [Texas Lottery Prize Winners](https://www.kaggle.com/code/tgut5510/texas-loter-a-prize-winners)
